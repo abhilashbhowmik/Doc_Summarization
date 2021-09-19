@@ -7,7 +7,7 @@ Figure 1.0 - The workflow of the proposed methodology.
 # Working
 The input data used for this project was sourced from various wiki platforms.
 
-<b>Libraries/Dependencies used:</b> Following are the libraries used in our code.
+<b>Libraries/Dependencies used:</b> Following are the libraries used in the code.
 <li>NLTK - for various uses, stopwords, tokenization, stemming, NER tagging...</li>
 <li>Numpy - helps in working with arrays: array creation and manipulation</li>
 <li>sys - used for printing the size of data structures used in the program</li>
